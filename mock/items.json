@@ -1,0 +1,194 @@
+[
+  {
+    "id": 321,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/321/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 322,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/322/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 323,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/323/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 324,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/324/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 325,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/325/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 326,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/326/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 327,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/327/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 328,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/328/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 329,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/329/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 330,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/330/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 331,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/331/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 332,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/332/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 333,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/333/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 334,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/334/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 335,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/335/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 336,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/336/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 337,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/337/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 338,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/338/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 339,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/339/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 340,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/340/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 341,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/341/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 342,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/342/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 343,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/343/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  },
+  {
+    "id": 344,
+    "title": "Наименование видео",
+    "image": "https://picsum.photos/id/344/232/342",
+    "genre": ["Приключения"],
+    "production": { "year": "2021", "country": "Россия" },
+    "labels": { "fullhd": true, "subtitles": true, "age_restrictions": "18+" }
+  }
+]

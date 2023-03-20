@@ -1,0 +1,23 @@
+:root {
+  //font
+  --font-family-main: consolas, 'Times New Roman', serif;
+  --font-size-m: 16px;
+  --font-line-m: 24px;
+  --font-m: var(--font-size-m) / var(--font-line-m) var(--font-family-main);
+  --font-size-l: 24px;
+  --font-line-l: 32px;
+  --font-l: var(--font-size-l) / var(--font-line-l) var(--font-family-main);
+  --font-size-xl: 32px;
+  --font-line-xl: 40px;
+  --font-xl: var(--font-size-xl) / var(--font-line-xl) var(--font-family-main);
+
+  // colors
+  --primary-color: #fff;
+  --secondary-color: #747587;
+  --bg-color-1: #2c2c37;
+  --bg-color-3: #4b8261;
+  --bg-color-4: #188bf5;
+  --box-shadow: #9f0013;
+
+  //size
+}
