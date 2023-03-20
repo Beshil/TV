@@ -1,7 +1,9 @@
 # TV
 Чтобы запустить данное приложение введите:
-git clone https://github.com/bimurzaew/cars_rent
+git clone https://github.com/Beshil/TV.git
+<br>
 npm install
+<br>
 npm start
-
+<br>
 Приложение запуститься в браузере на http://localhost:3000
